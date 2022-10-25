@@ -12,5 +12,3 @@ Feature: The application should be running
     When I search for "useless box"
     Then I should see more results
     
-    
-333
